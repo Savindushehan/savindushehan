@@ -15,19 +15,31 @@
 
 ### 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSharp-239120?style=flat&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
+<h3 align="center">🧠 Tech Stack</h3>
 
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" title="TypeScript"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React Native"/>
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter"/>
+  <img src="https://img.icons8.com/color/48/000000/net-framework.png" title=".NET MAUI / .NET"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" title="C#"/>
+  <img src="https://img.icons8.com/ios-filled/50/6DB33F/spring-logo.png" title="Spring Boot"/>
+  <img src="https://img.icons8.com/ios-filled/48/40C057/fastapi.png" title="FastAPI"/>
 </p>
+
+<p align="center">
+  <!-- Web, Design, Database -->
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular"/>
+  <img src="https://img.icons8.com/color/48/000000/figma--v1.png" title="Figma"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" title="Oracle"/>
+  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" title="GitHub"/>
+</p>
+
 
 
 ### 🌐 Connect with Me
