@@ -38,6 +38,7 @@
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" alt="MongoDB" />
   <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" title="Oracle" alt="Oracle" />
   <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" title="GitHub" alt="GitHub" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" title="Power BI" alt="Power BI" />
 </p>
 
 
