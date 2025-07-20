@@ -26,11 +26,13 @@
   <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" alt="Python" />
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" alt="Java" />
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" title="C#" alt="C#" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="48" height="48" />
+  <img src="https://img.icons8.com/officel/48/php-logo.png" title="PHP" alt="PHP" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="48" height="48" />
 </p>
 
-<!-- Tools & Databases -->
+<!-- Tools, Platforms & Databases -->
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular" alt="Angular" />
   <img src="https://img.icons8.com/color/48/000000/figma--v1.png" title="Figma" alt="Figma" />
