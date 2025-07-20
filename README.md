@@ -40,7 +40,7 @@
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL" alt="MySQL" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" alt="MongoDB" />
   <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" title="Oracle" alt="Oracle" />
-  <img src="https://img.icons8.com/color/48/000000/sql-server.png" title="SQL Server" alt="SQL Server" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="SQL Server" alt="SQL Server" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/wordpress.png" title="WordPress" alt="WordPress" />
   <img src="https://img.icons8.com/color/48/000000/azure-1.png" title="Azure" alt="Azure" />
   <img src="https://img.icons8.com/color/48/000000/docker.png" title="Docker" alt="Docker" />
@@ -52,10 +52,11 @@
 
 <!-- Mobile -->
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/android-logo.png" title="Android" alt="Android" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" title="Android" alt="Android" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" title=".NET MAUI" alt=".NET MAUI" width="48" height="48" />
 </p>
+
 
 
 
