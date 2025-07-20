@@ -29,19 +29,34 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="48" height="48" />
   <img src="https://img.icons8.com/officel/48/php-logo.png" title="PHP" alt="PHP" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular" alt="Angular" />
 </p>
 
 <!-- Tools, Platforms & Databases -->
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular" alt="Angular" />
   <img src="https://img.icons8.com/color/48/000000/figma--v1.png" title="Figma" alt="Figma" />
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL" alt="MySQL" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" alt="MongoDB" />
   <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" title="Oracle" alt="Oracle" />
+  <img src="https://img.icons8.com/color/48/000000/sql-server.png" title="SQL Server" alt="SQL Server" />
+  <img src="https://img.icons8.com/color/48/000000/wordpress.png" title="WordPress" alt="WordPress" />
+  <img src="https://img.icons8.com/color/48/000000/azure-1.png" title="Azure" alt="Azure" />
+  <img src="https://img.icons8.com/color/48/000000/docker.png" title="Docker" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="48" height="48" />
   <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" title="GitHub" alt="GitHub" />
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" title="Power BI" alt="Power BI" />
+  <img src="https://img.icons8.com/color/48/000000/report-card.png" title="Report Builder" alt="Report Builder" />
 </p>
+
+<!-- Mobile -->
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/android-logo.png" title="Android" alt="Android" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" title=".NET MAUI" alt=".NET MAUI" width="48" height="48" />
+</p>
+
 
 
 
