@@ -7,6 +7,7 @@
 
 - 🎓 Pursuing a **BSc (Hons) in Software Engineering** at **SLIIT**
 - 💼 Working as an **Associate Software Engineer**
+- 🧩 Hands-on experience with Feed Forward Neural Networks (FFNNs), Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), LSTMs, and Encoder-based Architectures
 - 🤖 Passionate about **Artificial Intelligence**, **Computer Vision**, **Web Application Development**, and **API Development**
 - 🧠 Constantly learning and working with **Python**, **Spring Boot**, **C#**, **ASP.NET**, **OpenCV**, **FastAPI**, **React**, and **Angular**
 - 📫 Reach me at: **s.m.savindushehan@gmail.com**
