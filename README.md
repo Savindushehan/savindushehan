@@ -51,13 +51,6 @@
   <img src="https://img.icons8.com/color/48/000000/report-card.png" title="Report Builder" alt="Report Builder" />
 </p>
 
-<!-- Mobile -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" title="Android" alt="Android" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" title=".NET MAUI" alt=".NET MAUI" width="48" height="48" />
-</p>
-
 <!-- Deep Learning & AI Tools -->
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" title="TensorFlow" alt="TensorFlow" width="48" height="48"/>
@@ -67,7 +60,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="48" height="48"/>
 </p>
 
-
+<!-- Mobile -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" title="Android" alt="Android" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" title=".NET MAUI" alt=".NET MAUI" width="48" height="48" />
+</p>
 
 
 
