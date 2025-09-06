@@ -58,6 +58,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" title=".NET MAUI" alt=".NET MAUI" width="48" height="48" />
 </p>
 
+<!-- Deep Learning & AI Tools -->
+<h3 align="center">🤖 Deep Learning & AI</h3>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" title="TensorFlow" alt="TensorFlow" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" title="PyTorch" alt="PyTorch" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" title="Keras" alt="Keras" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" alt="Scikit-Learn" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="48" height="48"/>
+</p>
 
 
 
